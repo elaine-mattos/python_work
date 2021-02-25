@@ -1,0 +1,1 @@
+print('John Lennon once said, "Life is what happens to you while you are busy making other plans."')
